@@ -6,7 +6,7 @@ module.exports = {
  
   buildOptions: {
     baseUrl: '/snowpack-test',
-    out: './build',
+    out: './docs',
   },
   
 };
