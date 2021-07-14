@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "canvas-confetti": "./canvas-confetti.js",
+    "nipplejs": "./nipplejs.js",
+    "peerjs": "./peerjs.js"
+  }
+}
