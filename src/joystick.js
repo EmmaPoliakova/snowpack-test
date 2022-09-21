@@ -7,6 +7,7 @@
     color: 'red'
 });
 
+var hi = 0; 
 var joystick = manager.get(manager.id);
 
 joystick.on("move", function (evt, data) {
