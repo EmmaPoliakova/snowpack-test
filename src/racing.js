@@ -1,6 +1,6 @@
 import Peer from 'peerjs';
 
-
+var hello = 0;
 
 
 //pup up window with QR
